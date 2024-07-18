@@ -1,13 +1,13 @@
-fn main() {
-    <br>let name = 'Maria Eduarda Albuquerque';
-    <br>let occupation = 'Student';
+👋 Olá! Me chamo Maria Eduarda.
 
-    let location = 'Nilopolis, Rio de Janeiro - Brazil';
-    
-}
+🎓 Atualmente estudando Ciência da Computação na Universidade Federal do Rio de Janeiro.
 
+🌱 Estou interessada em Desenvolvimento de Software, desenvolvimento Web(Frontend e Backend).
 
-<!---
-byEduarda/byEduarda is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+💻 Sempre buscando aprender e melhorar minhas habilidades em Desenvolvimento web e Cloud Computing.
+
+📫 Como me encontrar: (https://www.instagram.com/izumyzx) | 
+(https://www.linkedin.com/in/m-eduarda-albuquerque).
+
+⚡️ Fun fact: Se não estou programando estou jogando Valorant ou League of Legends.
+
