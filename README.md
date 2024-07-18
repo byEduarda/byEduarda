@@ -9,5 +9,5 @@
 📫 Como me encontrar: (https://www.instagram.com/izumyzx) | 
 (https://www.linkedin.com/in/m-eduarda-albuquerque).
 
-⚡️ Fun fact: Se não estou programando estou jogando Valorant ou League of Legends.
+⚡️ Fun fact: Se não estou programando, estou jogando Valorant ou League of Legends.
 
