@@ -1,6 +1,6 @@
 fn main() {
     let name = 'Maria Eduarda Albuquerque';
-    let occupation = 'Student';
+    <br>let occupation = 'Student';
 
     let location = 'Nilopolis, Rio de Janeiro - Brazil';
     
