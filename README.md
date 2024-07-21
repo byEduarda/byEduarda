@@ -2,9 +2,9 @@
 
 🎓 Atualmente estudando Ciência da Computação na Universidade Federal do Rio de Janeiro.
 
-🌱 Estou interessada em Desenvolvimento de Software, desenvolvimento Web(Frontend e Backend).
+🌱 Estou interessada em: Desenvolvimento Web(Frontend e Backend), Cloud Computing e desenvolvimento de Software.
 
-💻 Sempre buscando aprender e melhorar minhas habilidades em Desenvolvimento web e Cloud Computing.
+💻 Sempre buscando aprender e melhorar minhas habilidades em desenvolvimento web e desenvolvimento de Software
 
 📫 Como me encontrar: (https://www.instagram.com/izumyzx) | 
 (https://www.linkedin.com/in/m-eduarda-albuquerque).
