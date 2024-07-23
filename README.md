@@ -1,10 +1,8 @@
 👋 Olá! Me chamo Maria Eduarda.
 
-🎓 Atualmente estudando Ciência da Computação na Universidade Federal do Rio de Janeiro.
+🎓 Atualmente estudando Ciência da Computação na Universidade Federal do Rio de Janeiro(UFRJ).
 
 🌱 Estou interessada em: Desenvolvimento Web(Frontend e Backend), Cloud Computing e desenvolvimento de Software.
-
-💻 Sempre buscando aprender e melhorar minhas habilidades em desenvolvimento web e desenvolvimento de Software
 
 📫 Como me encontrar: (https://www.instagram.com/izumyzx) | 
 (https://www.linkedin.com/in/m-eduarda-albuquerque).
