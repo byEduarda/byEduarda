@@ -1,4 +1,4 @@
-👋 Olá! Me chamo Maria Eduarda, tenho 19 anos e sou carioca.
+👋 Olá! Me chamo Maria Eduarda.
 
 🎓Atualmente estou estudando Ciência da Computação na Universidade Federal do Rio de Janeiro(UFRJ).
 
