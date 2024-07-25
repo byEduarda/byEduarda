@@ -1,4 +1,4 @@
-👋 Olá! Me chamo Maria Eduarda.
+👋 Olá! Me chamo <strong>Maria Eduarda</strong>.
 
 🎓Atualmente estou estudando Ciência da Computação na Universidade Federal do Rio de Janeiro(UFRJ).
 
