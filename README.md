@@ -1,11 +1,22 @@
-👋 Olá! Me chamo <strong>Maria Eduarda</strong>.
+# 👋 Olá, sou Maria Eduarda!  
 
-🎓Atualmente estou estudando Ciência da Computação na Universidade Federal do Rio de Janeiro(UFRJ).
+🎓 **Estudante de Ciência da Computação** na **Universidade Federal do Rio de Janeiro (UFRJ)**.  
+💡 Apaixonada por aprender e criar soluções tecnológicas inovadoras.  
 
-🌱 Estou interessada em: Desenvolvimento Web(Frontend e Backend), Cloud Computing e Desenvolvimento de Software.
+## 🚀 Áreas de Interesse  
+- 🖥️ **Desenvolvimento Web**: Frontend & Backend  
+- ☁️ **Computação em Nuvem**  
+- 🛠️ **Desenvolvimento de Software**  
+- 🎓 **Informática para o Ensino**  
 
-📫 Como me encontrar: (https://www.instagram.com/izumyzx) | 
-(https://www.linkedin.com/in/m-eduarda-albuquerque).
+## 📫 Como me encontrar  
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/izumyzx)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/m-eduarda-albuquerque)  
 
-⚡️ Fun fact: Se não estou programando, estou jogando Valorant ou League of Legends.
+## ⚡ Curiosidade  
+Quando não estou estudando, estou jogando ou lendo algum livro de **romance**.  
+
+---
+⭐ **"Sempre em busca de novos desafios e aprendizados!"**  
+
 
