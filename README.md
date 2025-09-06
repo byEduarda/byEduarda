@@ -30,4 +30,4 @@ Minhas áreas de maior interesse incluem:</p>
 
 ---
 
-⭐ **"Aprender, criar e evoluir a cada projeto!"**
+⭐ **Aprender, criar e evoluir a cada projeto!**
