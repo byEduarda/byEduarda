@@ -20,15 +20,6 @@
 - 🛠️ **DevOps & Computação em Nuvem**  
 - 🤖 **Automação e Inteligência Artificial**  
 
-## 📊 Minhas Estatísticas no GitHub
-<div align="center">
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MariaEduardaAlbuquerque&layout=compact&hide_border=true&title_color=0A66C2&text_color=0A66C2&bg_color=1C1C1C">
-</div>
-
-## 👁️ Visualizações
-<a href="https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2FMariaEduardaAlbuquerque">
- <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FMariaEduardaAlbuquerque&label=Visualiza%C3%A7%C3%B5es&labelColor=%230A66C2&countColor=%23f47373" /></a>
-
 ---
 
 ⭐ **"Aprender, criar e evoluir a cada projeto!"**
